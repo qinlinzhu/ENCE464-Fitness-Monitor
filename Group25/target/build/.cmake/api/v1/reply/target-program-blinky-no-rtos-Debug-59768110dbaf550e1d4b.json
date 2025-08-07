@@ -1,0 +1,88 @@
+{
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"_add_program_target",
+			"add_program_target"
+		],
+		"files" : 
+		[
+			"cmake/program.cmake",
+			"demos/blinky-no-rtos/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 2
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "blinky-no-rtos::@d7e8feb16395537d9f64"
+		}
+	],
+	"id" : "program-blinky-no-rtos::@d7e8feb16395537d9f64",
+	"name" : "program-blinky-no-rtos",
+	"paths" : 
+	{
+		"build" : "demos/blinky-no-rtos",
+		"source" : "demos/blinky-no-rtos"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "build/demos/blinky-no-rtos/CMakeFiles/program-blinky-no-rtos",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/demos/blinky-no-rtos/CMakeFiles/program-blinky-no-rtos.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240804-2226-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.30.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="LAPTOP-JF8C9SEL"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="0"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="50607"
+	TotalPhysicalMemory="15791"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2894"
+	>
+	<Testing>
+		<StartDateTime>Aug 05 11:59 New Zealand Standard Time</StartDateTime>
+		<StartTestTime>1722815978</StartTestTime>
+		<TestList>
+			<Test>./test_adc.test_adc_int_handler</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test_adc.test_adc_int_handler</Name>
+			<Path>.</Path>
+			<FullName>./test_adc.test_adc_int_handler</FullName>
+			<FullCommandLine>C:\Users\fatga\Documents\fitness_git\Group25\tests\build\test_adc.exe "-t" "test_adc_int_handler"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0081727</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\fatga\Documents\fitness_git\Group25\tests\build\test_adc.exe "-t" "test_adc_int_handler"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>test_adc.c:177:test_adc_int_handler:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Aug 05 11:59 New Zealand Standard Time</EndDateTime>
+		<EndTestTime>1722815978</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

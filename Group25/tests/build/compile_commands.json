@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build",
+  "command": "C:/ence464/msys64/mingw64/bin/gcc.exe -DUNITY_USE_COMMAND_LINE_ARGS=1 @CMakeFiles/test_circular_buffer.dir/includes_C.rsp -g -o CMakeFiles/test_circular_buffer.dir/test_circular_buffer.runner.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/tests/build/test_circular_buffer.runner.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build/test_circular_buffer.runner.c",
+  "output": "CMakeFiles/test_circular_buffer.dir/test_circular_buffer.runner.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build",
+  "command": "C:/ence464/msys64/mingw64/bin/gcc.exe -DUNITY_USE_COMMAND_LINE_ARGS=1 @CMakeFiles/test_circular_buffer.dir/includes_C.rsp -g -o CMakeFiles/test_circular_buffer.dir/test_circular_buffer.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/tests/test_circular_buffer.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/tests/test_circular_buffer.c",
+  "output": "CMakeFiles/test_circular_buffer.dir/test_circular_buffer.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build",
+  "command": "C:/ence464/msys64/mingw64/bin/gcc.exe -DUNITY_USE_COMMAND_LINE_ARGS=1 @CMakeFiles/test_circular_buffer.dir/includes_C.rsp -g -o CMakeFiles/test_circular_buffer.dir/C_/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufT.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufT.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufT.c",
+  "output": "CMakeFiles/test_circular_buffer.dir/C_/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufT.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build",
+  "command": "C:/ence464/msys64/mingw64/bin/gcc.exe -DUNITY_USE_COMMAND_LINE_ARGS=1 @CMakeFiles/test_adc.dir/includes_C.rsp -g -o CMakeFiles/test_adc.dir/test_adc.runner.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/tests/build/test_adc.runner.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build/test_adc.runner.c",
+  "output": "CMakeFiles/test_adc.dir/test_adc.runner.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build",
+  "command": "C:/ence464/msys64/mingw64/bin/gcc.exe -DUNITY_USE_COMMAND_LINE_ARGS=1 @CMakeFiles/test_adc.dir/includes_C.rsp -g -o CMakeFiles/test_adc.dir/test_adc.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/tests/test_adc.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/tests/test_adc.c",
+  "output": "CMakeFiles/test_adc.dir/test_adc.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build",
+  "command": "C:/ence464/msys64/mingw64/bin/gcc.exe -DUNITY_USE_COMMAND_LINE_ARGS=1 @CMakeFiles/test_adc.dir/includes_C.rsp -g -o CMakeFiles/test_adc.dir/C_/Users/fatga/Documents/fitness_git/Group25/target/src/ADC_read.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/ADC_read.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/ADC_read.c",
+  "output": "CMakeFiles/test_adc.dir/C_/Users/fatga/Documents/fitness_git/Group25/target/src/ADC_read.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build",
+  "command": "C:/ence464/msys64/mingw64/bin/gcc.exe -DUNITY_USE_COMMAND_LINE_ARGS=1 @CMakeFiles/test_adc.dir/includes_C.rsp -g -o CMakeFiles/test_adc.dir/C_/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c",
+  "output": "CMakeFiles/test_adc.dir/C_/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build",
+  "command": "C:/ence464/msys64/mingw64/bin/gcc.exe -DUNITY_USE_COMMAND_LINE_ARGS=1 @CMakeFiles/test_adc_hal.dir/includes_C.rsp -g -o CMakeFiles/test_adc_hal.dir/test_adc_hal.runner.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/tests/build/test_adc_hal.runner.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build/test_adc_hal.runner.c",
+  "output": "CMakeFiles/test_adc_hal.dir/test_adc_hal.runner.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build",
+  "command": "C:/ence464/msys64/mingw64/bin/gcc.exe -DUNITY_USE_COMMAND_LINE_ARGS=1 @CMakeFiles/test_adc_hal.dir/includes_C.rsp -g -o CMakeFiles/test_adc_hal.dir/test_adc_hal.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/tests/test_adc_hal.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/tests/test_adc_hal.c",
+  "output": "CMakeFiles/test_adc_hal.dir/test_adc_hal.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build",
+  "command": "C:/ence464/msys64/mingw64/bin/gcc.exe -DUNITY_USE_COMMAND_LINE_ARGS=1 @CMakeFiles/test_adc_hal.dir/includes_C.rsp -g -o CMakeFiles/test_adc_hal.dir/C_/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c",
+  "output": "CMakeFiles/test_adc_hal.dir/C_/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/tests/build/unity",
+  "command": "C:/ence464/msys64/mingw64/bin/gcc.exe -DUNITY_USE_COMMAND_LINE_ARGS=1 @CMakeFiles/unity.dir/includes_C.rsp -g -o CMakeFiles/unity.dir/unity.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/tests/unity/unity.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/tests/unity/unity.c",
+  "output": "unity/CMakeFiles/unity.dir/unity.c.obj"
+}
+]

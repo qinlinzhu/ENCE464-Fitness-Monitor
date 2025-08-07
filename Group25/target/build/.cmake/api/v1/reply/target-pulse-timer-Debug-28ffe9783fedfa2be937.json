@@ -1,0 +1,208 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "demos/pulse-timer/pulse-timer"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_tiva_executable",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"cmake/tm4c.cmake",
+			"demos/pulse-timer/CMakeLists.txt",
+			"libs/tivaware/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 8,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "PART_TM4C123GH6PM"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "USE_FREERTOS=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.."
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "tivaware::@8cd1c9067c4eaac63a75"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "freertos-core::@3ce84d14f1f06ee3571b"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "freertos-heap-4::@3ce84d14f1f06ee3571b"
+		}
+	],
+	"id" : "pulse-timer::@24fb1f60f598f21d63ce",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-T\"C:/Users/fatga/Documents/fitness_git/Group25/target/scripts/link.ld\"",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "../../libs/freertos/libfreertos-heap-4.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/gcc/libdriver.a",
+				"role" : "libraries"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "pulse-timer",
+	"nameOnDisk" : "pulse-timer",
+	"paths" : 
+	{
+		"build" : "demos/pulse-timer",
+		"source" : "demos/pulse-timer"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"name" : "Object Libraries",
+			"sourceIndexes" : 
+			[
+				4
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "startup.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "syscall-stubs.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "demos/pulse-timer/pulse-timer.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "demos/pulse-timer/printf.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : "build/libs/tivaware/CMakeFiles/tivaware.dir/utils/ustdlib.c.obj",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

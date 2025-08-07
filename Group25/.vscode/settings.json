@@ -1,0 +1,20 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": ["${workspaceFolder}/target", "${workspaceFolder}/tests"],
+    "cmake.pinnedCommands": [
+        "cmake.selectLaunchTarget"
+    ],
+    "cmake.preferredGenerators": ["Unix Makefiles"],
+    "files.associations": {
+        "*.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "compare": "c",
+        "cstdint": "c",
+        "functional": "c",
+        "string": "c",
+        "system_error": "c"
+    },
+    "idf.portWin": "COM6"
+}

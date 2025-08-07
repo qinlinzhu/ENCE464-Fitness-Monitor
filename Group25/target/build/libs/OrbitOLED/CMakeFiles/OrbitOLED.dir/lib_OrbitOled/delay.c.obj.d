@@ -1,0 +1,22 @@
+libs/OrbitOLED/CMakeFiles/OrbitOLED.dir/lib_OrbitOled/delay.c.obj: \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/delay.c \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/delay.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/LaunchPad.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_default_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\features.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_newlib_version.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_intsup.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_stdint.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdbool.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/inc/hw_gpio.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/inc/hw_memmap.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/inc/hw_timer.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/inc/hw_types.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/adc.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/gpio.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/ssi.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/sysctl.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/timer.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/OrbitBoosterPackDefs.h

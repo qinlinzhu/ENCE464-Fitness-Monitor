@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/fatga/Documents/fitness_git/Group25/tests/build/test_temp_hal_tests.cmake")
+  include("C:/Users/fatga/Documents/fitness_git/Group25/tests/build/test_temp_hal_tests.cmake")
+else()
+  add_test(test_temp_hal_NOT_BUILT test_temp_hal_NOT_BUILT)
+endif()

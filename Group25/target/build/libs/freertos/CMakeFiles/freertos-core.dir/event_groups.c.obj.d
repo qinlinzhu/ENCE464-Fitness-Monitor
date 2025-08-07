@@ -1,0 +1,36 @@
+libs/freertos/CMakeFiles/freertos-core.dir/event_groups.c.obj: \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/event_groups.c \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\stdlib.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\ieeefp.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_ansi.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\newlib.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_newlib_version.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\config.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\features.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stddef.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\reent.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_ansi.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\cdefs.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_default_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\lock.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\stdlib.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\alloca.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/FreeRTOS.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_intsup.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_stdint.h \
+ c:\users\fatga\documents\fitness_git\group25\target\freertosconfig.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/projdefs.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/portable.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/deprecated_definitions.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F/portmacro.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/mpu_wrappers.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/task.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/list.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/timers.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/task.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/event_groups.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/timers.h

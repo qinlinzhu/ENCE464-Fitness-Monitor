@@ -1,0 +1,25 @@
+src/CMakeFiles/fitness-tracker.dir/circBuf/circBufT.c.obj: \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufT.c \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_default_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\features.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_newlib_version.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_intsup.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\stdlib.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\ieeefp.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_ansi.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\newlib.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\config.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stddef.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\reent.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_ansi.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\cdefs.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\lock.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\stdlib.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\alloca.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufT.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdbool.h

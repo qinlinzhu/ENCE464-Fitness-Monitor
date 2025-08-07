@@ -1,0 +1,488 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "libs/OrbitOLED",
+					"jsonFile" : "directory-libs.OrbitOLED-Debug-8de26a6e98a006314672.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs/OrbitOLED",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "libs/tivaware",
+					"jsonFile" : "directory-libs.tivaware-Debug-3041cb0860c6d89b2d25.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs/tivaware",
+					"targetIndexes" : 
+					[
+						27
+					]
+				},
+				{
+					"build" : "libs/freertos",
+					"jsonFile" : "directory-libs.freertos-Debug-74113b11f76501b918fd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs/freertos",
+					"targetIndexes" : 
+					[
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"build" : "src",
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						3,
+						10,
+						17
+					]
+				},
+				{
+					"build" : "demos",
+					"childIndexes" : 
+					[
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"jsonFile" : "directory-demos-Debug-9f5239e3ad924b99df87.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "demos"
+				},
+				{
+					"build" : "demos/blinky",
+					"jsonFile" : "directory-demos.blinky-Debug-ae197d427626441a8da0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 0,
+					"source" : "demos/blinky",
+					"targetIndexes" : 
+					[
+						1,
+						4,
+						18
+					]
+				},
+				{
+					"build" : "demos/blinky-no-rtos",
+					"jsonFile" : "directory-demos.blinky-no-rtos-Debug-d3d594f0f97240bd7a56.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 0,
+					"source" : "demos/blinky-no-rtos",
+					"targetIndexes" : 
+					[
+						2,
+						5,
+						19
+					]
+				},
+				{
+					"build" : "demos/pulse-timer",
+					"jsonFile" : "directory-demos.pulse-timer-Debug-88592f35307977e3cb3e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 0,
+					"source" : "demos/pulse-timer",
+					"targetIndexes" : 
+					[
+						6,
+						20,
+						24
+					]
+				},
+				{
+					"build" : "demos/pwm-oled",
+					"jsonFile" : "directory-demos.pwm-oled-Debug-22b76c2d65ffc1f8c3a5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 0,
+					"source" : "demos/pwm-oled",
+					"targetIndexes" : 
+					[
+						7,
+						21,
+						25
+					]
+				},
+				{
+					"build" : "demos/timer-interrupts",
+					"jsonFile" : "directory-demos.timer-interrupts-Debug-68cb9fbbcd8cf0f65082.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 0,
+					"source" : "demos/timer-interrupts",
+					"targetIndexes" : 
+					[
+						8,
+						22,
+						26
+					]
+				},
+				{
+					"build" : "demos/usb-serial",
+					"jsonFile" : "directory-demos.usb-serial-Debug-000faf72e2681e01542b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 0,
+					"source" : "demos/usb-serial",
+					"targetIndexes" : 
+					[
+						9,
+						23,
+						28
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"name" : "FitnessTracker",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "OrbitOLED::@aadea4ff9a20fd0e8790",
+					"jsonFile" : "target-OrbitOLED-Debug-5e118a620aa931b75f82.json",
+					"name" : "OrbitOLED",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "blinky::@a1175de786daac56e3ab",
+					"jsonFile" : "target-blinky-Debug-cfe2ab3bc75b6199c343.json",
+					"name" : "blinky",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "blinky-no-rtos::@d7e8feb16395537d9f64",
+					"jsonFile" : "target-blinky-no-rtos-Debug-6191fbc8e869782e1ee6.json",
+					"name" : "blinky-no-rtos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "debug::@145eef247bfb46b6828c",
+					"jsonFile" : "target-debug-Debug-bb37c71c567142af05a7.json",
+					"name" : "debug",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "debug-blinky::@a1175de786daac56e3ab",
+					"jsonFile" : "target-debug-blinky-Debug-8609f469ffd9932ca033.json",
+					"name" : "debug-blinky",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "debug-blinky-no-rtos::@d7e8feb16395537d9f64",
+					"jsonFile" : "target-debug-blinky-no-rtos-Debug-4295ac7a3209eb59e013.json",
+					"name" : "debug-blinky-no-rtos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "debug-pulse-timer::@24fb1f60f598f21d63ce",
+					"jsonFile" : "target-debug-pulse-timer-Debug-cb6f7dd86fbf8cdfd2c9.json",
+					"name" : "debug-pulse-timer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "debug-pwm-oled::@ac20eb266f023bc3f30e",
+					"jsonFile" : "target-debug-pwm-oled-Debug-b5de7b00026b6f72b2f1.json",
+					"name" : "debug-pwm-oled",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "debug-timer-interrupts::@ede8686f98ece75ace06",
+					"jsonFile" : "target-debug-timer-interrupts-Debug-bba64d92c42301589af7.json",
+					"name" : "debug-timer-interrupts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "debug-usb-serial::@157e3c06c966f25df0ca",
+					"jsonFile" : "target-debug-usb-serial-Debug-65c9505f5d27a6986470.json",
+					"name" : "debug-usb-serial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "fitness-tracker::@145eef247bfb46b6828c",
+					"jsonFile" : "target-fitness-tracker-Debug-ed1c6f18958ab4a01c90.json",
+					"name" : "fitness-tracker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "freertos-core::@3ce84d14f1f06ee3571b",
+					"jsonFile" : "target-freertos-core-Debug-372c592a9a14d9fbf20e.json",
+					"name" : "freertos-core",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "freertos-heap-1::@3ce84d14f1f06ee3571b",
+					"jsonFile" : "target-freertos-heap-1-Debug-0839dfa05a2db6a45cce.json",
+					"name" : "freertos-heap-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "freertos-heap-2::@3ce84d14f1f06ee3571b",
+					"jsonFile" : "target-freertos-heap-2-Debug-d8948a9043c4f9d47720.json",
+					"name" : "freertos-heap-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "freertos-heap-3::@3ce84d14f1f06ee3571b",
+					"jsonFile" : "target-freertos-heap-3-Debug-aebefc3e1bbf50c01d4b.json",
+					"name" : "freertos-heap-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "freertos-heap-4::@3ce84d14f1f06ee3571b",
+					"jsonFile" : "target-freertos-heap-4-Debug-f355cc445ac3c792cdfe.json",
+					"name" : "freertos-heap-4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "freertos-heap-5::@3ce84d14f1f06ee3571b",
+					"jsonFile" : "target-freertos-heap-5-Debug-cbf5edac8485e91668ee.json",
+					"name" : "freertos-heap-5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "program::@145eef247bfb46b6828c",
+					"jsonFile" : "target-program-Debug-af17d50086212009c174.json",
+					"name" : "program",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "program-blinky::@a1175de786daac56e3ab",
+					"jsonFile" : "target-program-blinky-Debug-75bce194ebbe80c4d595.json",
+					"name" : "program-blinky",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "program-blinky-no-rtos::@d7e8feb16395537d9f64",
+					"jsonFile" : "target-program-blinky-no-rtos-Debug-59768110dbaf550e1d4b.json",
+					"name" : "program-blinky-no-rtos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "program-pulse-timer::@24fb1f60f598f21d63ce",
+					"jsonFile" : "target-program-pulse-timer-Debug-9f7aec1dca380d020ea1.json",
+					"name" : "program-pulse-timer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "program-pwm-oled::@ac20eb266f023bc3f30e",
+					"jsonFile" : "target-program-pwm-oled-Debug-649f9eb91bf9a433a336.json",
+					"name" : "program-pwm-oled",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "program-timer-interrupts::@ede8686f98ece75ace06",
+					"jsonFile" : "target-program-timer-interrupts-Debug-9a270949994368d22b2b.json",
+					"name" : "program-timer-interrupts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "program-usb-serial::@157e3c06c966f25df0ca",
+					"jsonFile" : "target-program-usb-serial-Debug-954592a6d186f764b058.json",
+					"name" : "program-usb-serial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "pulse-timer::@24fb1f60f598f21d63ce",
+					"jsonFile" : "target-pulse-timer-Debug-28ffe9783fedfa2be937.json",
+					"name" : "pulse-timer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "pwm-oled::@ac20eb266f023bc3f30e",
+					"jsonFile" : "target-pwm-oled-Debug-2ac4d923c3a1a417363f.json",
+					"name" : "pwm-oled",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "timer-interrupts::@ede8686f98ece75ace06",
+					"jsonFile" : "target-timer-interrupts-Debug-c9cae0fc08205c958f69.json",
+					"name" : "timer-interrupts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "tivaware::@8cd1c9067c4eaac63a75",
+					"jsonFile" : "target-tivaware-Debug-ac4639f3239c1b2214ae.json",
+					"name" : "tivaware",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "usb-serial::@157e3c06c966f25df0ca",
+					"jsonFile" : "target-usb-serial-Debug-9d24459c6d51f70d609c.json",
+					"name" : "usb-serial",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/fatga/Documents/fitness_git/Group25/target/build",
+		"source" : "C:/Users/fatga/Documents/fitness_git/Group25/target"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

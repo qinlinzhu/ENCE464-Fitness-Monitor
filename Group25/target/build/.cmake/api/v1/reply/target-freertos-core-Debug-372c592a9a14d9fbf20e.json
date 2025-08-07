@@ -1,0 +1,188 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "libs/freertos/CMakeFiles/freertos-core.dir/croutine.c.obj"
+		},
+		{
+			"path" : "libs/freertos/CMakeFiles/freertos-core.dir/event_groups.c.obj"
+		},
+		{
+			"path" : "libs/freertos/CMakeFiles/freertos-core.dir/list.c.obj"
+		},
+		{
+			"path" : "libs/freertos/CMakeFiles/freertos-core.dir/queue.c.obj"
+		},
+		{
+			"path" : "libs/freertos/CMakeFiles/freertos-core.dir/stream_buffer.c.obj"
+		},
+		{
+			"path" : "libs/freertos/CMakeFiles/freertos-core.dir/tasks.c.obj"
+		},
+		{
+			"path" : "libs/freertos/CMakeFiles/freertos-core.dir/timers.c.obj"
+		},
+		{
+			"path" : "libs/freertos/CMakeFiles/freertos-core.dir/portable/GCC/ARM_CM4F/port.c.obj"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_compile_definitions",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"libs/freertos/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "USE_FREERTOS=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.."
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		}
+	],
+	"id" : "freertos-core::@3ce84d14f1f06ee3571b",
+	"name" : "freertos-core",
+	"paths" : 
+	{
+		"build" : "libs/freertos",
+		"source" : "libs/freertos"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/freertos/croutine.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/freertos/event_groups.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/freertos/list.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/freertos/queue.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/freertos/stream_buffer.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/freertos/tasks.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/freertos/timers.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/freertos/portable/GCC/ARM_CM4F/port.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

@@ -1,0 +1,19 @@
+CMakeFiles/test_adc_hal.dir/C_/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c.obj: \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c \
+ C:/ence464/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/inc/hw_memmap.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/adc.h \
+ C:/ence464/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+ C:/ence464/msys64/mingw64/include/stdint.h \
+ C:/ence464/msys64/mingw64/include/crtdefs.h \
+ C:/ence464/msys64/mingw64/include/corecrt.h \
+ C:/ence464/msys64/mingw64/include/_mingw.h \
+ C:/ence464/msys64/mingw64/include/_mingw_mac.h \
+ C:/ence464/msys64/mingw64/include/_mingw_secapi.h \
+ C:/ence464/msys64/mingw64/include/vadefs.h \
+ C:/ence464/msys64/mingw64/include/sdks/_mingw_ddk.h \
+ C:/ence464/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+ C:/ence464/msys64/mingw64/include/stddef.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/sysctl.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufT.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal.h

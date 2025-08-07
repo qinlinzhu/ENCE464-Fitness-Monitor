@@ -1,0 +1,23 @@
+Start testing: Jul 26 17:30 New Zealand Standard Time
+----------------------------------------------------------
+13/13 Testing: test_circular_buffer.test_capacity_higher_than_max_invalid
+13/13 Test: test_circular_buffer.test_capacity_higher_than_max_invalid
+Command: "C:/Users/fatga/Documents/fitness_git/Group25/tests/build/test_circular_buffer.exe" "-t" "test_capacity_higher_than_max_invalid"
+Directory: C:/Users/fatga/Documents/fitness_git/Group25/tests/build
+"test_circular_buffer.test_capacity_higher_than_max_invalid" start time: Jul 26 17:30 New Zealand Standard Time
+Output:
+----------------------------------------------------------
+test_circular_buffer.c:155:test_capacity_higher_than_max_invalid:IGNORE
+
+-----------------------
+1 Tests 0 Failures 1 Ignored 
+OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_circular_buffer.test_capacity_higher_than_max_invalid" end time: Jul 26 17:30 New Zealand Standard Time
+"test_circular_buffer.test_capacity_higher_than_max_invalid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 26 17:30 New Zealand Standard Time

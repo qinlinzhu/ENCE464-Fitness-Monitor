@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240807-0357-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.30.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="LAPTOP-JF8C9SEL"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="0"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="50607"
+	TotalPhysicalMemory="15791"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2894"
+	>
+	<Testing>
+		<StartDateTime>Aug 07 19:45 New Zealand Standard Time</StartDateTime>
+		<StartTestTime>1723016722</StartTestTime>
+		<TestList>
+			<Test>./test_adc_hal.test_adc_hal_start_conversion_valid_id</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>test_adc_hal.test_adc_hal_start_conversion_valid_id</Name>
+			<Path>.</Path>
+			<FullName>./test_adc_hal.test_adc_hal_start_conversion_valid_id</FullName>
+			<FullCommandLine>C:\Users\fatga\Documents\fitness_git\Group25\tests\build\test_adc_hal.exe "-t" "test_adc_hal_start_conversion_valid_id"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0103775</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\fatga\Documents\fitness_git\Group25\tests\build\test_adc_hal.exe "-t" "test_adc_hal_start_conversion_valid_id"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>test_adc_hal.c:77:test_adc_hal_start_conversion_valid_id:FAIL: Expected 1 Was 0
+
+-----------------------
+1 Tests 1 Failures 0 Ignored 
+FAIL
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Aug 07 19:45 New Zealand Standard Time</EndDateTime>
+		<EndTestTime>1723016722</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

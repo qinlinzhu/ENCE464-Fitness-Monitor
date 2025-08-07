@@ -1,0 +1,54 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/include",
+						"C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/include-fixed",
+						"C:/ence464/msys64/mingw64/arm-none-eabi/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard",
+						"C:/ence464/msys64/mingw64/arm-none-eabi/lib/thumb/v7e-m+fp/hard",
+						"C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0",
+						"C:/ence464/msys64/mingw64/lib/gcc",
+						"C:/ence464/msys64/mingw64/arm-none-eabi/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"gcc",
+						"c_nano",
+						"gcc",
+						"c_nano",
+						"nosys",
+						"gcc",
+						"c_nano",
+						"nosys"
+					]
+				},
+				"path" : "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe",
+				"version" : "12.2.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

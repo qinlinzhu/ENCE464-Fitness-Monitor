@@ -1,0 +1,19 @@
+libs/freertos/CMakeFiles/freertos-core.dir/portable/GCC/ARM_CM4F/port.c.obj: \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F/port.c \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/FreeRTOS.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stddef.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_default_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\features.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_newlib_version.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_intsup.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_stdint.h \
+ c:\users\fatga\documents\fitness_git\group25\target\freertosconfig.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/projdefs.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/portable.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/deprecated_definitions.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F/portmacro.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/mpu_wrappers.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/task.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include/list.h

@@ -1,0 +1,37 @@
+libs/tivaware/CMakeFiles/tivaware.dir/utils/ustdlib.c.obj: \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/utils/ustdlib.c \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_default_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\features.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_newlib_version.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_intsup.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_stdint.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/debug.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/utils/ustdlib.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdarg.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\time.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_ansi.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\newlib.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\config.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\ieeefp.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\cdefs.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stddef.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\reent.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_ansi.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\lock.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\time.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\endian.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_endian.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\select.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_sigset.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_timeval.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\timespec.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_timespec.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_pthreadtypes.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\sched.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_locale.h

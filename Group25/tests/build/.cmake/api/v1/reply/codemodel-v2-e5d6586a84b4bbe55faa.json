@@ -1,0 +1,106 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "unity",
+					"jsonFile" : "directory-unity-Debug-a1eb251ee4b55312d240.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "unity",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "FitnessTrackerTests",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "test_adc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_adc-Debug-753a05b1ef2ad3279dca.json",
+					"name" : "test_adc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_adc_hal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_adc_hal-Debug-0a314034da35145c0030.json",
+					"name" : "test_adc_hal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_circular_buffer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_circular_buffer-Debug-53124646df089bc6e0d3.json",
+					"name" : "test_circular_buffer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "unity::@e9bcf21850361af75531",
+					"jsonFile" : "target-unity-Debug-a0850db0c6319e630c67.json",
+					"name" : "unity",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/fatga/Documents/fitness_git/Group25/tests/build",
+		"source" : "C:/Users/fatga/Documents/fitness_git/Group25/tests"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

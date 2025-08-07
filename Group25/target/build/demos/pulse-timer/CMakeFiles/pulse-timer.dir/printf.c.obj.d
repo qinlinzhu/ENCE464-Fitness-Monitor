@@ -1,0 +1,20 @@
+demos/pulse-timer/CMakeFiles/pulse-timer.dir/printf.c.obj: \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/demos/pulse-timer/printf.c \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdbool.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_default_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\features.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_newlib_version.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_intsup.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_stdint.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include-fixed\limits.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include-fixed\syslimits.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\limits.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\newlib.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\cdefs.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stddef.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\syslimits.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/demos/pulse-timer/printf.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdarg.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\float.h

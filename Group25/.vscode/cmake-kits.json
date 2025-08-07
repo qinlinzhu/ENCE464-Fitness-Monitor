@@ -1,0 +1,6 @@
+[
+    {
+        "name": "TM4C123",
+        "toolchainFile": "${workspaceFolder}/target/cmake/tm4c.cmake"
+    }
+]

@@ -1,0 +1,328 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake:200 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The target system is: Generic -  - arm
+      The host system is: Windows - 10.0.22631 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe 
+      Build flags: -mcpu=cortex-m4;-mthumb;-specs=nano.specs;-specs=nosys.specs;-mfloat-abi=hard;-mfpu=fpv4-sp-d16
+      Id flags:  
+      
+      The output was:
+      0
+      c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/ld.exe: c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\\libc_nano.a(libc_a-closer.o): in function `_close_r':
+      c:\\m\\b\\src\\newlib-4.4.0.20231231\\newlib\\libc\\reent/closer.c:47:(.text+0xc): warning: _close is not implemented and will always fail
+      c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/ld.exe: c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\\libc_nano.a(libc_a-lseekr.o): in function `_lseek_r':
+      c:\\m\\b\\src\\newlib-4.4.0.20231231\\newlib\\libc\\reent/lseekr.c:49:(.text+0x14): warning: _lseek is not implemented and will always fail
+      c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/ld.exe: c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\\libc_nano.a(libc_a-readr.o): in function `_read_r':
+      c:\\m\\b\\src\\newlib-4.4.0.20231231\\newlib\\libc\\reent/readr.c:49:(.text+0x14): warning: _read is not implemented and will always fail
+      c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/ld.exe: c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\\libc_nano.a(libc_a-writer.o): in function `_write_r':
+      c:\\m\\b\\src\\newlib-4.4.0.20231231\\newlib\\libc\\reent/writer.c:49:(.text+0x14): warning: _write is not implemented and will always fail
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+      
+      The C compiler identification is GNU, found in:
+        C:/Users/fatga/Documents/fitness_git/Group25/target/build/CMakeFiles/3.30.1/CompilerIdC/a.out
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:74 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/Users/fatga/Documents/fitness_git/Group25/target/build/CMakeFiles/CMakeScratch/TryCompile-4jeh23"
+      binary: "C:/Users/fatga/Documents/fitness_git/Group25/target/build/CMakeFiles/CMakeScratch/TryCompile-4jeh23"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "-mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16"
+      CMAKE_C_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: "-T\"C:/Users/fatga/Documents/fitness_git/Group25/target/scripts/link.ld\""
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/fatga/Documents/fitness_git/Group25/target/build/CMakeFiles/CMakeScratch/TryCompile-4jeh23'
+        
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/ence464/msys64/usr/bin/make.exe -f Makefile cmTC_541e7/fast
+        /usr/bin/make  -f CMakeFiles/cmTC_541e7.dir/build.make CMakeFiles/cmTC_541e7.dir/build
+        make[1]: Entering directory '/c/Users/fatga/Documents/fitness_git/Group25/target/build/CMakeFiles/CMakeScratch/TryCompile-4jeh23'
+        Building C object CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj
+        C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe   -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16    -v -o CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCCompilerABI.c"
+        Using built-in specs.
+        Reading specs from c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/nano.specs
+        rename spec link to nano_link
+        rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence
+        rename spec cpp_unique_options to nano_cpp_unique_options
+        Reading specs from c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/nosys.specs
+        rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence
+        COLLECT_GCC=C:\\ence464\\msys64\\mingw64\\bin\\arm-none-eabi-gcc.exe
+        Target: arm-none-eabi
+        Configured with: ../configure --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --prefix=/mingw64 --target=arm-none-eabi --with-native-system-header-dir=/mingw64/include --libexecdir=/mingw64/lib --enable-languages=c,c++ --enable-plugins --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-shared --disable-threads --disable-tls --disable-libada --with-gnu-as --with-gnu-ld --with-system-zlib --with-newlib --with-headers=/mingw64/arm-none-eabi/include --with-python-dir=share/gcc-arm-none-eabi --with-gmp --with-mpfr --with-mpc --with-isl --with-libelf --enable-gnu-indirect_function --with-multilib-list=rmprofile --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --enable-linker-plugin-flags='LDFLAGS=-static-libstdc++\\ -static-libgcc\\ -pipe\\ -Wl,--stack,12582912' LDFLAGS='-pipe -Wl,--disable-dynamicbase'
+        Thread model: single
+        Supported LTO compression algorithms: zlib zstd
+        gcc version 12.2.0 (GCC) 
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-specs=nano.specs' '-specs=nosys.specs' '-mfloat-abi=hard' '-mfpu=fpv4-sp-d16' '-v' '-o' 'CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_541e7.dir/'
+         c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/cc1.exe -isystem =/include/newlib-nano -quiet -v -imultilib thumb/v7e-m+fp/hard -iprefix c:\\ence464\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/12.2.0/ -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_541e7.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mlibarch=armv7e-m+fp -march=armv7e-m+fp -version -o C:\\Users\\fatga\\AppData\\Local\\Temp\\cc1FQdi0.s
+        GNU C17 (GCC) version 12.2.0 (arm-none-eabi)
+        	compiled by GNU C version 12.2.0, GMP version 6.2.1, MPFR version 4.1.0-p13, MPC version 1.2.1, isl version isl-0.26-GMP
+        
+        warning: GMP header version 6.2.1 differs from library version 6.3.0.
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring nonexistent directory "=/include/newlib-nano"
+        ignoring nonexistent directory "c:\\ence464\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/sys-include"
+        ignoring duplicate directory "c:/ence464/msys64/mingw64/lib/gcc/../../lib/gcc/arm-none-eabi/12.2.0/include"
+        ignoring duplicate directory "c:/ence464/msys64/mingw64/lib/gcc/../../lib/gcc/arm-none-eabi/12.2.0/include-fixed"
+        ignoring nonexistent directory "c:/ence464/msys64/mingw64/lib/gcc/../../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/sys-include"
+        ignoring duplicate directory "c:/ence464/msys64/mingw64/lib/gcc/../../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         c:\\ence464\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/12.2.0/include
+         c:\\ence464\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/12.2.0/include-fixed
+         c:\\ence464\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/include
+        End of search list.
+        GNU C17 (GCC) version 12.2.0 (arm-none-eabi)
+        	compiled by GNU C version 12.2.0, GMP version 6.2.1, MPFR version 4.1.0-p13, MPC version 1.2.1, isl version isl-0.26-GMP
+        
+        warning: GMP header version 6.2.1 differs from library version 6.3.0.
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        Compiler executable checksum: 7b6792cbd03d22e0bb1a97c31f9cfb80
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-specs=nano.specs' '-specs=nosys.specs' '-mfloat-abi=hard' '-mfpu=fpv4-sp-d16' '-v' '-o' 'CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_541e7.dir/'
+         c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m+fp -mfloat-abi=hard -mfpu=fpv4-sp-d16 -meabi=5 -o CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj C:\\Users\\fatga\\AppData\\Local\\Temp\\cc1FQdi0.s
+        GNU assembler version 2.41 (arm-none-eabi) using BFD version (GNU Binutils) 2.41
+        COMPILER_PATH=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/;c:/ence464/msys64/mingw64/bin/../lib/gcc/;c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/
+        LIBRARY_PATH=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/;c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/;c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/;c:/ence464/msys64/mingw64/bin/../lib/gcc/;c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-specs=nano.specs' '-specs=nosys.specs' '-mfloat-abi=hard' '-mfpu=fpv4-sp-d16' '-v' '-o' 'CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.'
+        Linking C executable cmTC_541e7
+        C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16  -T"C:/Users/fatga/Documents/fitness_git/Group25/target/scripts/link.ld" -v "CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj"  -o cmTC_541e7
+        Using built-in specs.
+        Reading specs from c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/nano.specs
+        rename spec link to nano_link
+        rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence
+        rename spec cpp_unique_options to nano_cpp_unique_options
+        Reading specs from c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/nosys.specs
+        rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence
+        COLLECT_GCC=C:\\ence464\\msys64\\mingw64\\bin\\arm-none-eabi-gcc.exe
+        COLLECT_LTO_WRAPPER=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/lto-wrapper.exe
+        Target: arm-none-eabi
+        Configured with: ../configure --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --prefix=/mingw64 --target=arm-none-eabi --with-native-system-header-dir=/mingw64/include --libexecdir=/mingw64/lib --enable-languages=c,c++ --enable-plugins --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-shared --disable-threads --disable-tls --disable-libada --with-gnu-as --with-gnu-ld --with-system-zlib --with-newlib --with-headers=/mingw64/arm-none-eabi/include --with-python-dir=share/gcc-arm-none-eabi --with-gmp --with-mpfr --with-mpc --with-isl --with-libelf --enable-gnu-indirect_function --with-multilib-list=rmprofile --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --enable-linker-plugin-flags='LDFLAGS=-static-libstdc++\\ -static-libgcc\\ -pipe\\ -Wl,--stack,12582912' LDFLAGS='-pipe -Wl,--disable-dynamicbase'
+        Thread model: single
+        Supported LTO compression algorithms: zlib zstd
+        gcc version 12.2.0 (GCC) 
+        COMPILER_PATH=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/;c:/ence464/msys64/mingw64/bin/../lib/gcc/;c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/
+        LIBRARY_PATH=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/;c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/;c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/;c:/ence464/msys64/mingw64/bin/../lib/gcc/;c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-specs=nano.specs' '-specs=nosys.specs' '-mfloat-abi=hard' '-mfpu=fpv4-sp-d16' '-T' 'C:/Users/fatga/Documents/fitness_git/Group25/target/scripts/link.ld' '-v' '-o' 'cmTC_541e7' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'cmTC_541e7.'
+         c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/collect2.exe -plugin c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/liblto_plugin.dll -plugin-opt=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\fatga\\AppData\\Local\\Temp\\cc1ldJ3d.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lnosys -X -o cmTC_541e7 c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crti.o c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtbegin.o c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o -Lc:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard -Lc:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard -Lc:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0 -Lc:/ence464/msys64/mingw64/bin/../lib/gcc -Lc:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj --start-group -lgcc -lc_nano --end-group --start-group -lgcc -lc_nano -lnosys --end-group --start-group -lgcc -lc_nano -lnosys --end-group c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtend.o c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtn.o -T C:/Users/fatga/Documents/fitness_git/Group25/target/scripts/link.ld
+        c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/ld.exe: c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\\libc_nano.a(libc_a-closer.o): in function `_close_r':
+        c:\\m\\b\\src\\newlib-4.4.0.20231231\\newlib\\libc\\reent/closer.c:47:(.text+0xc): warning: _close is not implemented and will always fail
+        c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/ld.exe: c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\\libc_nano.a(libc_a-lseekr.o): in function `_lseek_r':
+        c:\\m\\b\\src\\newlib-4.4.0.20231231\\newlib\\libc\\reent/lseekr.c:49:(.text+0x14): warning: _lseek is not implemented and will always fail
+        c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/ld.exe: c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\\libc_nano.a(libc_a-readr.o): in function `_read_r':
+        c:\\m\\b\\src\\newlib-4.4.0.20231231\\newlib\\libc\\reent/readr.c:49:(.text+0x14): warning: _read is not implemented and will always fail
+        c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/ld.exe: c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\\libc_nano.a(libc_a-writer.o): in function `_write_r':
+        c:\\m\\b\\src\\newlib-4.4.0.20231231\\newlib\\libc\\reent/writer.c:49:(.text+0x14): warning: _write is not implemented and will always fail
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-specs=nano.specs' '-specs=nosys.specs' '-mfloat-abi=hard' '-mfpu=fpv4-sp-d16' '-T' 'C:/Users/fatga/Documents/fitness_git/Group25/target/scripts/link.ld' '-v' '-o' 'cmTC_541e7' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'cmTC_541e7.'
+        make[1]: Leaving directory '/c/Users/fatga/Documents/fitness_git/Group25/target/build/CMakeFiles/CMakeScratch/TryCompile-4jeh23'
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:182 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed C implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/include]
+          add: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/include-fixed]
+          add: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/include]
+        end of search list found
+        collapse include dir [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/include] ==> [C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/include]
+        collapse include dir [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/include-fixed] ==> [C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/include-fixed]
+        collapse include dir [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/include] ==> [C:/ence464/msys64/mingw64/arm-none-eabi/include]
+        implicit include dirs: [C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/include;C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/include-fixed;C:/ence464/msys64/mingw64/arm-none-eabi/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake:218 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?))("|,| |$)]
+        ignore line: [Change Dir: 'C:/Users/fatga/Documents/fitness_git/Group25/target/build/CMakeFiles/CMakeScratch/TryCompile-4jeh23']
+        ignore line: []
+        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/ence464/msys64/usr/bin/make.exe -f Makefile cmTC_541e7/fast]
+        ignore line: [/usr/bin/make  -f CMakeFiles/cmTC_541e7.dir/build.make CMakeFiles/cmTC_541e7.dir/build]
+        ignore line: [make[1]: Entering directory '/c/Users/fatga/Documents/fitness_git/Group25/target/build/CMakeFiles/CMakeScratch/TryCompile-4jeh23']
+        ignore line: [Building C object CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe   -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16    -v -o CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCCompilerABI.c"]
+        ignore line: [Using built-in specs.]
+        ignore line: [Reading specs from c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/nano.specs]
+        ignore line: [rename spec link to nano_link]
+        ignore line: [rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence]
+        ignore line: [rename spec cpp_unique_options to nano_cpp_unique_options]
+        ignore line: [Reading specs from c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/nosys.specs]
+        ignore line: [rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence]
+        ignore line: [COLLECT_GCC=C:\\ence464\\msys64\\mingw64\\bin\\arm-none-eabi-gcc.exe]
+        ignore line: [Target: arm-none-eabi]
+        ignore line: [Configured with: ../configure --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --prefix=/mingw64 --target=arm-none-eabi --with-native-system-header-dir=/mingw64/include --libexecdir=/mingw64/lib --enable-languages=c,c++ --enable-plugins --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-shared --disable-threads --disable-tls --disable-libada --with-gnu-as --with-gnu-ld --with-system-zlib --with-newlib --with-headers=/mingw64/arm-none-eabi/include --with-python-dir=share/gcc-arm-none-eabi --with-gmp --with-mpfr --with-mpc --with-isl --with-libelf --enable-gnu-indirect_function --with-multilib-list=rmprofile --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --enable-linker-plugin-flags='LDFLAGS=-static-libstdc++\\ -static-libgcc\\ -pipe\\ -Wl,--stack,12582912' LDFLAGS='-pipe -Wl,--disable-dynamicbase']
+        ignore line: [Thread model: single]
+        ignore line: [Supported LTO compression algorithms: zlib zstd]
+        ignore line: [gcc version 12.2.0 (GCC) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-specs=nano.specs' '-specs=nosys.specs' '-mfloat-abi=hard' '-mfpu=fpv4-sp-d16' '-v' '-o' 'CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_541e7.dir/']
+        ignore line: [ c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/cc1.exe -isystem =/include/newlib-nano -quiet -v -imultilib thumb/v7e-m+fp/hard -iprefix c:\\ence464\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/12.2.0/ -D__USES_INITFINI__ C:/Program Files/CMake/share/cmake-3.30/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_541e7.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -mlibarch=armv7e-m+fp -march=armv7e-m+fp -version -o C:\\Users\\fatga\\AppData\\Local\\Temp\\cc1FQdi0.s]
+        ignore line: [GNU C17 (GCC) version 12.2.0 (arm-none-eabi)]
+        ignore line: [	compiled by GNU C version 12.2.0  GMP version 6.2.1  MPFR version 4.1.0-p13  MPC version 1.2.1  isl version isl-0.26-GMP]
+        ignore line: []
+        ignore line: [warning: GMP header version 6.2.1 differs from library version 6.3.0.]
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring nonexistent directory "=/include/newlib-nano"]
+        ignore line: [ignoring nonexistent directory "c:\\ence464\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/sys-include"]
+        ignore line: [ignoring duplicate directory "c:/ence464/msys64/mingw64/lib/gcc/../../lib/gcc/arm-none-eabi/12.2.0/include"]
+        ignore line: [ignoring duplicate directory "c:/ence464/msys64/mingw64/lib/gcc/../../lib/gcc/arm-none-eabi/12.2.0/include-fixed"]
+        ignore line: [ignoring nonexistent directory "c:/ence464/msys64/mingw64/lib/gcc/../../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/sys-include"]
+        ignore line: [ignoring duplicate directory "c:/ence464/msys64/mingw64/lib/gcc/../../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ c:\\ence464\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/12.2.0/include]
+        ignore line: [ c:\\ence464\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/12.2.0/include-fixed]
+        ignore line: [ c:\\ence464\\msys64\\mingw64\\bin\\../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/include]
+        ignore line: [End of search list.]
+        ignore line: [GNU C17 (GCC) version 12.2.0 (arm-none-eabi)]
+        ignore line: [	compiled by GNU C version 12.2.0  GMP version 6.2.1  MPFR version 4.1.0-p13  MPC version 1.2.1  isl version isl-0.26-GMP]
+        ignore line: []
+        ignore line: [warning: GMP header version 6.2.1 differs from library version 6.3.0.]
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [Compiler executable checksum: 7b6792cbd03d22e0bb1a97c31f9cfb80]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-specs=nano.specs' '-specs=nosys.specs' '-mfloat-abi=hard' '-mfpu=fpv4-sp-d16' '-v' '-o' 'CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_541e7.dir/']
+        ignore line: [ c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m+fp -mfloat-abi=hard -mfpu=fpv4-sp-d16 -meabi=5 -o CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj C:\\Users\\fatga\\AppData\\Local\\Temp\\cc1FQdi0.s]
+        ignore line: [GNU assembler version 2.41 (arm-none-eabi) using BFD version (GNU Binutils) 2.41]
+        ignore line: [COMPILER_PATH=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/]
+        ignore line: [LIBRARY_PATH=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-specs=nano.specs' '-specs=nosys.specs' '-mfloat-abi=hard' '-mfpu=fpv4-sp-d16' '-v' '-o' 'CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj' '-c' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_541e7]
+        ignore line: [C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16  -T"C:/Users/fatga/Documents/fitness_git/Group25/target/scripts/link.ld" -v "CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj"  -o cmTC_541e7]
+        ignore line: [Using built-in specs.]
+        ignore line: [Reading specs from c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/nano.specs]
+        ignore line: [rename spec link to nano_link]
+        ignore line: [rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence]
+        ignore line: [rename spec cpp_unique_options to nano_cpp_unique_options]
+        ignore line: [Reading specs from c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/nosys.specs]
+        ignore line: [rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence]
+        ignore line: [COLLECT_GCC=C:\\ence464\\msys64\\mingw64\\bin\\arm-none-eabi-gcc.exe]
+        ignore line: [COLLECT_LTO_WRAPPER=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/lto-wrapper.exe]
+        ignore line: [Target: arm-none-eabi]
+        ignore line: [Configured with: ../configure --build=x86_64-w64-mingw32 --host=x86_64-w64-mingw32 --prefix=/mingw64 --target=arm-none-eabi --with-native-system-header-dir=/mingw64/include --libexecdir=/mingw64/lib --enable-languages=c,c++ --enable-plugins --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-shared --disable-threads --disable-tls --disable-libada --with-gnu-as --with-gnu-ld --with-system-zlib --with-newlib --with-headers=/mingw64/arm-none-eabi/include --with-python-dir=share/gcc-arm-none-eabi --with-gmp --with-mpfr --with-mpc --with-isl --with-libelf --enable-gnu-indirect_function --with-multilib-list=rmprofile --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --enable-linker-plugin-flags='LDFLAGS=-static-libstdc++\\ -static-libgcc\\ -pipe\\ -Wl,--stack,12582912' LDFLAGS='-pipe -Wl,--disable-dynamicbase']
+        ignore line: [Thread model: single]
+        ignore line: [Supported LTO compression algorithms: zlib zstd]
+        ignore line: [gcc version 12.2.0 (GCC) ]
+        ignore line: [COMPILER_PATH=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/]
+        ignore line: [LIBRARY_PATH=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-specs=nano.specs' '-specs=nosys.specs' '-mfloat-abi=hard' '-mfpu=fpv4-sp-d16' '-T' 'C:/Users/fatga/Documents/fitness_git/Group25/target/scripts/link.ld' '-v' '-o' 'cmTC_541e7' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'cmTC_541e7.']
+        link line: [ c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/collect2.exe -plugin c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/liblto_plugin.dll -plugin-opt=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\fatga\\AppData\\Local\\Temp\\cc1ldJ3d.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lnosys -X -o cmTC_541e7 c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crti.o c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtbegin.o c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o -Lc:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard -Lc:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard -Lc:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0 -Lc:/ence464/msys64/mingw64/bin/../lib/gcc -Lc:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj --start-group -lgcc -lc_nano --end-group --start-group -lgcc -lc_nano -lnosys --end-group --start-group -lgcc -lc_nano -lnosys --end-group c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtend.o c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtn.o -T C:/Users/fatga/Documents/fitness_git/Group25/target/scripts/link.ld]
+          arg [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/collect2.exe] ==> ignore
+          arg [-plugin] ==> ignore
+          arg [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/liblto_plugin.dll] ==> ignore
+          arg [-plugin-opt=c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/lto-wrapper.exe] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\fatga\\AppData\\Local\\Temp\\cc1ldJ3d.res] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lc_nano] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lc_nano] ==> ignore
+          arg [-plugin-opt=-pass-through=-lnosys] ==> ignore
+          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+          arg [-plugin-opt=-pass-through=-lc_nano] ==> ignore
+          arg [-plugin-opt=-pass-through=-lnosys] ==> ignore
+          arg [-X] ==> ignore
+          arg [-o] ==> ignore
+          arg [cmTC_541e7] ==> ignore
+          arg [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crti.o] ==> obj [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crti.o]
+          arg [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtbegin.o] ==> obj [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtbegin.o]
+          arg [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o] ==> obj [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o]
+          arg [-Lc:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard] ==> dir [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard]
+          arg [-Lc:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard] ==> dir [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard]
+          arg [-Lc:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0] ==> dir [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0]
+          arg [-Lc:/ence464/msys64/mingw64/bin/../lib/gcc] ==> dir [c:/ence464/msys64/mingw64/bin/../lib/gcc]
+          arg [-Lc:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib] ==> dir [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib]
+          arg [CMakeFiles/cmTC_541e7.dir/CMakeCCompilerABI.c.obj] ==> ignore
+          arg [--start-group] ==> ignore
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lc_nano] ==> lib [c_nano]
+          arg [--end-group] ==> ignore
+          arg [--start-group] ==> ignore
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lc_nano] ==> lib [c_nano]
+          arg [-lnosys] ==> lib [nosys]
+          arg [--end-group] ==> ignore
+          arg [--start-group] ==> ignore
+          arg [-lgcc] ==> lib [gcc]
+          arg [-lc_nano] ==> lib [c_nano]
+          arg [-lnosys] ==> lib [nosys]
+          arg [--end-group] ==> ignore
+          arg [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtend.o] ==> obj [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtend.o]
+          arg [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtn.o] ==> obj [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtn.o]
+          arg [-T] ==> ignore
+          arg [C:/Users/fatga/Documents/fitness_git/Group25/target/scripts/link.ld] ==> ignore
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/ld.exe: c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\\libc_nano.a(libc_a-closer.o): in function `_close_r':]
+        ignore line: [c:\\m\\b\\src\\newlib-4.4.0.20231231\\newlib\\libc\\reent/closer.c:47:(.text+0xc): warning: _close is not implemented and will always fail]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/ld.exe: c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\\libc_nano.a(libc_a-lseekr.o): in function `_lseek_r':]
+        ignore line: [c:\\m\\b\\src\\newlib-4.4.0.20231231\\newlib\\libc\\reent/lseekr.c:49:(.text+0x14): warning: _lseek is not implemented and will always fail]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/ld.exe: c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\\libc_nano.a(libc_a-readr.o): in function `_read_r':]
+        ignore line: [c:\\m\\b\\src\\newlib-4.4.0.20231231\\newlib\\libc\\reent/readr.c:49:(.text+0x14): warning: _read is not implemented and will always fail]
+        ignore line: [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/bin/ld.exe: c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\\libc_nano.a(libc_a-writer.o): in function `_write_r':]
+        ignore line: [c:\\m\\b\\src\\newlib-4.4.0.20231231\\newlib\\libc\\reent/writer.c:49:(.text+0x14): warning: _write is not implemented and will always fail]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-specs=nano.specs' '-specs=nosys.specs' '-mfloat-abi=hard' '-mfpu=fpv4-sp-d16' '-T' 'C:/Users/fatga/Documents/fitness_git/Group25/target/scripts/link.ld' '-v' '-o' 'cmTC_541e7' '-mlibarch=armv7e-m+fp' '-march=armv7e-m+fp' '-dumpdir' 'cmTC_541e7.']
+        ignore line: [make[1]: Leaving directory '/c/Users/fatga/Documents/fitness_git/Group25/target/build/CMakeFiles/CMakeScratch/TryCompile-4jeh23']
+        ignore line: []
+        ignore line: []
+        collapse obj [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crti.o] ==> [C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crti.o]
+        collapse obj [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtbegin.o] ==> [C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtbegin.o]
+        collapse obj [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o] ==> [C:/ence464/msys64/mingw64/arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o]
+        collapse obj [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtend.o] ==> [C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtend.o]
+        collapse obj [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtn.o] ==> [C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtn.o]
+        collapse library dir [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard] ==> [C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard]
+        collapse library dir [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard] ==> [C:/ence464/msys64/mingw64/arm-none-eabi/lib/thumb/v7e-m+fp/hard]
+        collapse library dir [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0] ==> [C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0]
+        collapse library dir [c:/ence464/msys64/mingw64/bin/../lib/gcc] ==> [C:/ence464/msys64/mingw64/lib/gcc]
+        collapse library dir [c:/ence464/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/../../../../arm-none-eabi/lib] ==> [C:/ence464/msys64/mingw64/arm-none-eabi/lib]
+        implicit libs: [gcc;c_nano;gcc;c_nano;nosys;gcc;c_nano;nosys]
+        implicit objs: [C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crti.o;C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtbegin.o;C:/ence464/msys64/mingw64/arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o;C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtend.o;C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard/crtn.o]
+        implicit dirs: [C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard;C:/ence464/msys64/mingw64/arm-none-eabi/lib/thumb/v7e-m+fp/hard;C:/ence464/msys64/mingw64/lib/gcc/arm-none-eabi/12.2.0;C:/ence464/msys64/mingw64/lib/gcc;C:/ence464/msys64/mingw64/arm-none-eabi/lib]
+        implicit fwks: []
+      
+      
+...

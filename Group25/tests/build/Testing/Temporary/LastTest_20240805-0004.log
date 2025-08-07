@@ -1,0 +1,23 @@
+Start testing: Aug 05 15:15 New Zealand Standard Time
+----------------------------------------------------------
+37/37 Testing: test_adc.test_adc_read_with_rounding_error
+37/37 Test: test_adc.test_adc_read_with_rounding_error
+Command: "C:/Users/fatga/Documents/fitness_git/Group25/tests/build/test_adc.exe" "-t" "test_adc_read_with_rounding_error"
+Directory: C:/Users/fatga/Documents/fitness_git/Group25/tests/build
+"test_adc.test_adc_read_with_rounding_error" start time: Aug 05 15:15 New Zealand Standard Time
+Output:
+----------------------------------------------------------
+test_adc.c:241:test_adc_read_with_rounding_error:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test_adc.test_adc_read_with_rounding_error" end time: Aug 05 15:15 New Zealand Standard Time
+"test_adc.test_adc_read_with_rounding_error" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 05 15:15 New Zealand Standard Time

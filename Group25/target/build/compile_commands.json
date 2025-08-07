@@ -1,0 +1,350 @@
+[
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/OrbitOLED",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/OrbitOLED.dir/OrbitOLEDInterface.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/OrbitOLEDInterface.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/OrbitOLEDInterface.c",
+  "output": "libs/OrbitOLED/CMakeFiles/OrbitOLED.dir/OrbitOLEDInterface.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/OrbitOLED",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/OrbitOLED.dir/lib_OrbitOled/ChrFont0.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/ChrFont0.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/ChrFont0.c",
+  "output": "libs/OrbitOLED/CMakeFiles/OrbitOLED.dir/lib_OrbitOled/ChrFont0.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/OrbitOLED",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/OrbitOLED.dir/lib_OrbitOled/delay.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/delay.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/delay.c",
+  "output": "libs/OrbitOLED/CMakeFiles/OrbitOLED.dir/lib_OrbitOled/delay.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/OrbitOLED",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/OrbitOLED.dir/lib_OrbitOled/FillPat.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/FillPat.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/FillPat.c",
+  "output": "libs/OrbitOLED/CMakeFiles/OrbitOLED.dir/lib_OrbitOled/FillPat.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/OrbitOLED",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/OrbitOLED.dir/lib_OrbitOled/OrbitOled.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/OrbitOled.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/OrbitOled.c",
+  "output": "libs/OrbitOLED/CMakeFiles/OrbitOLED.dir/lib_OrbitOled/OrbitOled.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/OrbitOLED",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/OrbitOLED.dir/lib_OrbitOled/OrbitOledChar.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/OrbitOledChar.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/OrbitOledChar.c",
+  "output": "libs/OrbitOLED/CMakeFiles/OrbitOLED.dir/lib_OrbitOled/OrbitOledChar.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/OrbitOLED",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/OrbitOLED.dir/lib_OrbitOled/OrbitOledGrph.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/OrbitOledGrph.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/OrbitOledGrph.c",
+  "output": "libs/OrbitOLED/CMakeFiles/OrbitOLED.dir/lib_OrbitOled/OrbitOledGrph.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/tivaware",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/tivaware.dir/utils/ustdlib.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/utils/ustdlib.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/utils/ustdlib.c",
+  "output": "libs/tivaware/CMakeFiles/tivaware.dir/utils/ustdlib.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-core.dir/croutine.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/croutine.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/croutine.c",
+  "output": "libs/freertos/CMakeFiles/freertos-core.dir/croutine.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-core.dir/event_groups.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/event_groups.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/event_groups.c",
+  "output": "libs/freertos/CMakeFiles/freertos-core.dir/event_groups.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-core.dir/list.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/list.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/list.c",
+  "output": "libs/freertos/CMakeFiles/freertos-core.dir/list.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-core.dir/queue.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/queue.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/queue.c",
+  "output": "libs/freertos/CMakeFiles/freertos-core.dir/queue.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-core.dir/stream_buffer.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/stream_buffer.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/stream_buffer.c",
+  "output": "libs/freertos/CMakeFiles/freertos-core.dir/stream_buffer.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-core.dir/tasks.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/tasks.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/tasks.c",
+  "output": "libs/freertos/CMakeFiles/freertos-core.dir/tasks.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-core.dir/timers.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/timers.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/timers.c",
+  "output": "libs/freertos/CMakeFiles/freertos-core.dir/timers.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-core.dir/portable/GCC/ARM_CM4F/port.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F/port.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F/port.c",
+  "output": "libs/freertos/CMakeFiles/freertos-core.dir/portable/GCC/ARM_CM4F/port.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-heap-1.dir/portable/MemMang/heap_1.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/MemMang/heap_1.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/MemMang/heap_1.c",
+  "output": "libs/freertos/CMakeFiles/freertos-heap-1.dir/portable/MemMang/heap_1.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-heap-2.dir/portable/MemMang/heap_2.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/MemMang/heap_2.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/MemMang/heap_2.c",
+  "output": "libs/freertos/CMakeFiles/freertos-heap-2.dir/portable/MemMang/heap_2.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-heap-3.dir/portable/MemMang/heap_3.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/MemMang/heap_3.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/MemMang/heap_3.c",
+  "output": "libs/freertos/CMakeFiles/freertos-heap-3.dir/portable/MemMang/heap_3.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-heap-4.dir/portable/MemMang/heap_4.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/MemMang/heap_4.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/MemMang/heap_4.c",
+  "output": "libs/freertos/CMakeFiles/freertos-heap-4.dir/portable/MemMang/heap_4.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/libs/freertos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/freertos-heap-5.dir/portable/MemMang/heap_5.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/MemMang/heap_5.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/MemMang/heap_5.c",
+  "output": "libs/freertos/CMakeFiles/freertos-heap-5.dir/portable/MemMang/heap_5.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/__/startup.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/__/startup.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/__/syscall-stubs.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/__/syscall-stubs.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/accl_manager.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/accl_manager.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/accl_manager.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/accl_manager.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/ADC_read.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/ADC_read.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/ADC_read.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/ADC_read.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/button_manager.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/button_manager.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/button_manager.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/button_manager.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/display_manager.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/display_manager.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/display_manager.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/display_manager.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/i2c_driver.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/i2c_driver.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/i2c_driver.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/i2c_driver.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/step_counter_main.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/step_counter_main.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/step_counter_main.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/step_counter_main.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/temp_track.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/temp_track.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/temp_track.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/temp_track.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/circBuf/circBufT.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufT.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufT.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/circBuf/circBufT.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/circBuf/circBufF.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufF.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufF.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/circBuf/circBufF.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/circBuf/circBufV.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufV.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufV.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/circBuf/circBufV.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/hal/adc_hal_tiva.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/hal/adc_hal_tiva.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/hal/accl_hal_tiva.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/accl_hal_tiva.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/accl_hal_tiva.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/hal/accl_hal_tiva.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/hal/temp_hal_tiva.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/temp_hal_tiva.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/temp_hal_tiva.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/hal/temp_hal_tiva.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/hal/buttons_hal_tiva.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/buttons_hal_tiva.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/buttons_hal_tiva.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/hal/buttons_hal_tiva.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/src",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/hal -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf -IC:/Users/fatga/Documents/fitness_git/Group25/target/src/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/src -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -Wall -o CMakeFiles/fitness-tracker.dir/hal/switches_hal_tiva.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/switches_hal_tiva.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/switches_hal_tiva.c",
+  "output": "src/CMakeFiles/fitness-tracker.dir/hal/switches_hal_tiva.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/blinky",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/blinky.dir/__/__/startup.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "output": "demos/blinky/CMakeFiles/blinky.dir/__/__/startup.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/blinky",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/blinky.dir/__/__/syscall-stubs.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "output": "demos/blinky/CMakeFiles/blinky.dir/__/__/syscall-stubs.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/blinky",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/blinky.dir/blinky.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/demos/blinky/blinky.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/demos/blinky/blinky.c",
+  "output": "demos/blinky/CMakeFiles/blinky.dir/blinky.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/blinky-no-rtos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/blinky-no-rtos.dir/__/__/startup.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "output": "demos/blinky-no-rtos/CMakeFiles/blinky-no-rtos.dir/__/__/startup.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/blinky-no-rtos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/blinky-no-rtos.dir/__/__/syscall-stubs.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "output": "demos/blinky-no-rtos/CMakeFiles/blinky-no-rtos.dir/__/__/syscall-stubs.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/blinky-no-rtos",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/blinky-no-rtos.dir/blinky-no-rtos.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/demos/blinky-no-rtos/blinky-no-rtos.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/demos/blinky-no-rtos/blinky-no-rtos.c",
+  "output": "demos/blinky-no-rtos/CMakeFiles/blinky-no-rtos.dir/blinky-no-rtos.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/pulse-timer",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/pulse-timer.dir/__/__/startup.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "output": "demos/pulse-timer/CMakeFiles/pulse-timer.dir/__/__/startup.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/pulse-timer",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/pulse-timer.dir/__/__/syscall-stubs.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "output": "demos/pulse-timer/CMakeFiles/pulse-timer.dir/__/__/syscall-stubs.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/pulse-timer",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/pulse-timer.dir/pulse-timer.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/demos/pulse-timer/pulse-timer.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/demos/pulse-timer/pulse-timer.c",
+  "output": "demos/pulse-timer/CMakeFiles/pulse-timer.dir/pulse-timer.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/pulse-timer",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/pulse-timer.dir/printf.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/demos/pulse-timer/printf.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/demos/pulse-timer/printf.c",
+  "output": "demos/pulse-timer/CMakeFiles/pulse-timer.dir/printf.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/pwm-oled",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/pwm-oled.dir/__/__/startup.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "output": "demos/pwm-oled/CMakeFiles/pwm-oled.dir/__/__/startup.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/pwm-oled",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/pwm-oled.dir/__/__/syscall-stubs.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "output": "demos/pwm-oled/CMakeFiles/pwm-oled.dir/__/__/syscall-stubs.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/pwm-oled",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/pwm-oled.dir/pwm-oled.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/demos/pwm-oled/pwm-oled.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/demos/pwm-oled/pwm-oled.c",
+  "output": "demos/pwm-oled/CMakeFiles/pwm-oled.dir/pwm-oled.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/pwm-oled",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/.. -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/pwm-oled.dir/buttons.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/demos/pwm-oled/buttons.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/demos/pwm-oled/buttons.c",
+  "output": "demos/pwm-oled/CMakeFiles/pwm-oled.dir/buttons.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/timer-interrupts",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/timer-interrupts.dir/__/__/startup.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "output": "demos/timer-interrupts/CMakeFiles/timer-interrupts.dir/__/__/startup.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/timer-interrupts",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/timer-interrupts.dir/__/__/syscall-stubs.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "output": "demos/timer-interrupts/CMakeFiles/timer-interrupts.dir/__/__/syscall-stubs.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/timer-interrupts",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/timer-interrupts.dir/timer-interrupts.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/demos/timer-interrupts/timer-interrupts.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/demos/timer-interrupts/timer-interrupts.c",
+  "output": "demos/timer-interrupts/CMakeFiles/timer-interrupts.dir/timer-interrupts.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/usb-serial",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/usb-serial.dir/__/__/startup.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/startup.c",
+  "output": "demos/usb-serial/CMakeFiles/usb-serial.dir/__/__/startup.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/usb-serial",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/usb-serial.dir/__/__/syscall-stubs.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/syscall-stubs.c",
+  "output": "demos/usb-serial/CMakeFiles/usb-serial.dir/__/__/syscall-stubs.c.obj"
+},
+{
+  "directory": "C:/Users/fatga/Documents/fitness_git/Group25/target/build/demos/usb-serial",
+  "command": "C:/ence464/msys64/mingw64/bin/arm-none-eabi-gcc.exe -DPART_TM4C123GH6PM -DUSE_FREERTOS=1 -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/include -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/../.. -IC:/Users/fatga/Documents/fitness_git/Group25/target/libs/freertos/portable/GCC/ARM_CM4F -mcpu=cortex-m4         -mthumb         -specs=nano.specs         -specs=nosys.specs         -mfloat-abi=hard         -mfpu=fpv4-sp-d16 -g -o CMakeFiles/usb-serial.dir/usb-serial.c.obj -c C:/Users/fatga/Documents/fitness_git/Group25/target/demos/usb-serial/usb-serial.c",
+  "file": "C:/Users/fatga/Documents/fitness_git/Group25/target/demos/usb-serial/usb-serial.c",
+  "output": "demos/usb-serial/CMakeFiles/usb-serial.dir/usb-serial.c.obj"
+}
+]

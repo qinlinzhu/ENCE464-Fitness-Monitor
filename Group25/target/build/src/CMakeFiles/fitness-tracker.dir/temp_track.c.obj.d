@@ -1,0 +1,26 @@
+src/CMakeFiles/fitness-tracker.dir/temp_track.c.obj: \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/src/temp_track.c \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/src/temp_track.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_default_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\features.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_newlib_version.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_intsup.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_stdint.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/temp_hal.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\string.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_ansi.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\newlib.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\config.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\ieeefp.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\reent.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_ansi.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stddef.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\cdefs.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\lock.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_locale.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\strings.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\string.h

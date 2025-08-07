@@ -1,0 +1,24 @@
+CMakeFiles/test_circular_buffer.dir/C_/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufT.c.obj: \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufT.c \
+ C:/ence464/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+ C:/ence464/msys64/mingw64/include/stdint.h \
+ C:/ence464/msys64/mingw64/include/crtdefs.h \
+ C:/ence464/msys64/mingw64/include/corecrt.h \
+ C:/ence464/msys64/mingw64/include/_mingw.h \
+ C:/ence464/msys64/mingw64/include/_mingw_mac.h \
+ C:/ence464/msys64/mingw64/include/_mingw_secapi.h \
+ C:/ence464/msys64/mingw64/include/vadefs.h \
+ C:/ence464/msys64/mingw64/include/sdks/_mingw_ddk.h \
+ C:/ence464/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+ C:/ence464/msys64/mingw64/include/stddef.h \
+ C:/ence464/msys64/mingw64/include/stdlib.h \
+ C:/ence464/msys64/mingw64/include/corecrt_wstdlib.h \
+ C:/ence464/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
+ C:/ence464/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
+ C:/ence464/msys64/mingw64/include/limits.h \
+ C:/ence464/msys64/mingw64/include/sec_api/stdlib_s.h \
+ C:/ence464/msys64/mingw64/include/malloc.h \
+ C:/ence464/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
+ C:/ence464/msys64/mingw64/include/errno.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/src/circBuf/circBufT.h \
+ C:/ence464/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h

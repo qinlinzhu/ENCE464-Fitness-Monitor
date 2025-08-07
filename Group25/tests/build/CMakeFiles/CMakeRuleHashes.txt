@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+91d651c22bbcaa4f5613d13bce998c8d test_adc.runner.c
+b8497224ff36f8510e6357e408153cac test_adc_hal.runner.c
+d27ceb785e4ba0bf4d41c2a75f990c8f test_circular_buffer.runner.c

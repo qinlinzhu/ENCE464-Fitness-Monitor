@@ -1,0 +1,23 @@
+Start testing: Aug 07 19:45 New Zealand Standard Time
+----------------------------------------------------------
+43/43 Testing: test_adc_hal.test_adc_hal_start_conversion_valid_id
+43/43 Test: test_adc_hal.test_adc_hal_start_conversion_valid_id
+Command: "C:/Users/fatga/Documents/fitness_git/Group25/tests/build/test_adc_hal.exe" "-t" "test_adc_hal_start_conversion_valid_id"
+Directory: C:/Users/fatga/Documents/fitness_git/Group25/tests/build
+"test_adc_hal.test_adc_hal_start_conversion_valid_id" start time: Aug 07 19:45 New Zealand Standard Time
+Output:
+----------------------------------------------------------
+test_adc_hal.c:77:test_adc_hal_start_conversion_valid_id:FAIL: Expected 1 Was 0
+
+-----------------------
+1 Tests 1 Failures 0 Ignored 
+FAIL
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"test_adc_hal.test_adc_hal_start_conversion_valid_id" end time: Aug 07 19:45 New Zealand Standard Time
+"test_adc_hal.test_adc_hal_start_conversion_valid_id" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 07 19:45 New Zealand Standard Time

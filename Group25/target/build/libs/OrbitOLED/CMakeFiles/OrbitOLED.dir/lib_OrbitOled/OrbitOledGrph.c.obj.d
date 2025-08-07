@@ -1,0 +1,37 @@
+libs/OrbitOLED/CMakeFiles/OrbitOLED.dir/lib_OrbitOled/OrbitOledGrph.c.obj: \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/OrbitOledGrph.c \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/FillPat.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/LaunchPad.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\stdint.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_default_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\features.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_newlib_version.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_intsup.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_stdint.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdbool.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/inc/hw_gpio.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/inc/hw_memmap.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/inc/hw_timer.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/inc/hw_types.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/adc.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/gpio.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/ssi.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/sysctl.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/tivaware/driverlib/timer.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/OrbitBoosterPackDefs.h \
+ C:/Users/fatga/Documents/fitness_git/Group25/target/libs/OrbitOLED/lib_OrbitOled/OrbitOled.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\stdlib.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\ieeefp.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_ansi.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\newlib.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\config.h \
+ c:\ence464\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stddef.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\reent.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\_ansi.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\cdefs.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\_types.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\sys\lock.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\machine\stdlib.h \
+ c:\ence464\msys64\mingw64\arm-none-eabi\include\alloca.h

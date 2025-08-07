@@ -1,0 +1,10 @@
+C:/Users/fatga/Documents/fitness_git/Group25/tests/build/CMakeFiles/test_circular_buffer.dir
+C:/Users/fatga/Documents/fitness_git/Group25/tests/build/CMakeFiles/test_adc.dir
+C:/Users/fatga/Documents/fitness_git/Group25/tests/build/CMakeFiles/test_adc_hal.dir
+C:/Users/fatga/Documents/fitness_git/Group25/tests/build/CMakeFiles/test.dir
+C:/Users/fatga/Documents/fitness_git/Group25/tests/build/CMakeFiles/edit_cache.dir
+C:/Users/fatga/Documents/fitness_git/Group25/tests/build/CMakeFiles/rebuild_cache.dir
+C:/Users/fatga/Documents/fitness_git/Group25/tests/build/unity/CMakeFiles/unity.dir
+C:/Users/fatga/Documents/fitness_git/Group25/tests/build/unity/CMakeFiles/test.dir
+C:/Users/fatga/Documents/fitness_git/Group25/tests/build/unity/CMakeFiles/edit_cache.dir
+C:/Users/fatga/Documents/fitness_git/Group25/tests/build/unity/CMakeFiles/rebuild_cache.dir

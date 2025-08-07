@@ -1,0 +1,2 @@
+C:/ence464/msys64/mingw64/bin/arm-none-eabi-ar.exe qc libOrbitOLED.a CMakeFiles/OrbitOLED.dir/OrbitOLEDInterface.c.obj CMakeFiles/OrbitOLED.dir/lib_OrbitOled/ChrFont0.c.obj CMakeFiles/OrbitOLED.dir/lib_OrbitOled/delay.c.obj CMakeFiles/OrbitOLED.dir/lib_OrbitOled/FillPat.c.obj CMakeFiles/OrbitOLED.dir/lib_OrbitOled/OrbitOled.c.obj CMakeFiles/OrbitOLED.dir/lib_OrbitOled/OrbitOledChar.c.obj CMakeFiles/OrbitOLED.dir/lib_OrbitOled/OrbitOledGrph.c.obj ../tivaware/CMakeFiles/tivaware.dir/utils/ustdlib.c.obj
+C:/ence464/msys64/mingw64/bin/arm-none-eabi-ranlib.exe libOrbitOLED.a

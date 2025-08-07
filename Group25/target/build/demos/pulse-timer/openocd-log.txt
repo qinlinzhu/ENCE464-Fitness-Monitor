@@ -1,0 +1,30 @@
+WARNING: board/ek-tm4c123gxl.cfg is deprecated, please switch to board/ti_ek-tm4c123gxl.cfg
+Info : The selected transport took over low-level target control. The results might differ compared to plain JTAG/SWD
+Info : Listening on port 6666 for tcl connections
+Info : Listening on port 4444 for telnet connections
+Info : clock speed 32759 kHz
+Info : ICDI Firmware version: 9270
+Error: SRST error
+Info : [tm4c123gh6pm.cpu] Cortex-M4 r0p1 processor detected
+Info : [tm4c123gh6pm.cpu] target has 6 breakpoints, 4 watchpoints
+Info : starting gdb server for tm4c123gh6pm.cpu on pipe
+Info : accepting 'gdb' connection from pipe
+[tm4c123gh6pm.cpu] halted due to debug-request, current mode: Thread 
+xPSR: 0x01000000 pc: 0x00004566 psp: 0x20001500
+Error: SRST error
+[tm4c123gh6pm.cpu] halted due to debug-request, current mode: Thread 
+xPSR: 0x01000000 pc: 0x000002e0 msp: 0x20008000
+Error: SRST error
+Error: SRST error
+[tm4c123gh6pm.cpu] halted due to debug-request, current mode: Thread 
+xPSR: 0x01000000 pc: 0x000002e0 msp: 0x20008000
+Error: SRST error
+[tm4c123gh6pm.cpu] halted due to debug-request, current mode: Thread 
+xPSR: 0x01000000 pc: 0x01000e5c msp: 0x20001000
+Info : Padding image section 0 at 0x0000026c with 4 bytes
+Info : Flash write discontinued at 0x0000cfe0, next section at 0x0000d400
+Error: SRST error
+[tm4c123gh6pm.cpu] halted due to debug-request, current mode: Thread 
+xPSR: 0x01000000 pc: 0x01000e5c msp: 0x20001000
+Error: SRST error
+Info : dropped 'gdb' connection

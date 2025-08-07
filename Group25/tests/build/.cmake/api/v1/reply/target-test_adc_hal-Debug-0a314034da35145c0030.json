@@ -1,0 +1,206 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "test_adc_hal.exe"
+		},
+		{
+			"path" : "test_adc_hal.pdb"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_unity_test",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"unity/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 39,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 40,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 41,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 22,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "UNITY_USE_COMMAND_LINE_ARGS=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/tests"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/tests/../target/src"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/tests/../target/src/hal"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/tests/../target/src/circBuf"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/tests/../target/libs/tivaware"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/tests/mocks"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/fatga/Documents/fitness_git/Group25/tests/unity/."
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "unity::@e9bcf21850361af75531"
+		}
+	],
+	"id" : "test_adc_hal::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "unity/libunity.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "test_adc_hal",
+	"nameOnDisk" : "test_adc_hal.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				3
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/test_adc_hal.runner.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "test_adc_hal.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "C:/Users/fatga/Documents/fitness_git/Group25/target/src/hal/adc_hal_tiva.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/test_adc_hal.runner.c.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}
